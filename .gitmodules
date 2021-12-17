@@ -1,0 +1,6 @@
+[submodule "Bronze/Galaxy"]
+	path = Bronze/Galaxy
+	url = https://github.com/jdadonut/Galaxy
+[submodule "Galaxy"]
+	path = Galaxy
+	url = https://github.com/jdadonut/Galaxy
